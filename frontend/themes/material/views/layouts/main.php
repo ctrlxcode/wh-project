@@ -179,7 +179,7 @@ $asset_path = Yii::$app->assetManager->getPublishedUrl('@frontend/themes/materia
 	</main>
 	<footer class="ui-footer">
 		<div class="container">
-			<p>Copy right by <a href="http://ctrxcode.wordpress.com" target="_blank">Control X</a> Teams. Power by <a href="http://www.yiiframework.com" target="_blank">Yii Framework</a>.</p>
+			<p>Copy right by <a href="https://ctrlxcode.wordpress.com/" target="_blank">Control X</a> Teams. Power by <a href="http://www.yiiframework.com" target="_blank">Yii Framework</a>.</p>
 		</div>
 	</footer>
 	<div class="fbtn-container">
